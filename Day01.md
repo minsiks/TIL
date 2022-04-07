@@ -29,6 +29,7 @@
   - git add @ : staging area로 올리기 (@: 파일명)
   - git commit -m "@" : commit으로 올리기 (m : message 약자, @ : 이유)
   - git log : git 상태보기
+  - git remote add origin
 
 ## 2. Github 란
 
