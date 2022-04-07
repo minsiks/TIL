@@ -29,7 +29,19 @@
   - git add @ : staging area로 올리기 (@: 파일명)
   - git commit -m "@" : commit으로 올리기 (m : message 약자, @ : 이유)
   - git log : git 상태보기
-  - git remote add origin
+  - tab : 자동완성
+  - Q : Return 
+  - git checkout commit ID : 돌아감
+  - git remote add origin [원격 저장소 URL] : 원격 저장소 (깃허브)와 연결
+  - git push origin master : 원격 저장소와 연동 보냄
+
+> ~~'origin'은 변경 가능 Only 'git remote add origin' 단계서~~
+###### 주의사항
+
+1. git init 중첩 X
+2. 상위 폴더 git init X
+3. git hub에서 수정 X
+
 
 ## 2. Github 란
 
