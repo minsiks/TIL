@@ -9,6 +9,22 @@
   - java 개발환경
   - 구조파악
   - 프로그램 언어
+- Day 03 
+  - JAVA / JDK / JVM 구조
+  - 조건문과 반복문
+- Day 04
+  - 조건문
+    - switch 문
+
+  - 반복문
+    - for 문
+    - while 문
+    - 반복문에 대한 제어
+      - break
+      - continue
+
+  - while(true) 루프
+
 
 ## Git & Github 
 
