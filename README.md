@@ -28,6 +28,9 @@
   - null pointer exception
   - String 타입
   - 배열타입
+### Day 06
+- Team Match
+- Team Workshop
 > #### Day 1~4(ch 1~4) Review
 
 
