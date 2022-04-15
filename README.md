@@ -1,5 +1,11 @@
 #  Today I Learned in Multicampus
 
+> 살만한 책  *java(OOP) Design Pattern : 헤드퍼스트 디자인패턴 - 한빛미디어*
+>
+> JAva
+>
+> 자격증 Try : 정보처리 기능사 (6/7)
+
 
 
 ## -- JAVA --
@@ -31,6 +37,15 @@
 ### Day 06
 - Team Match
 - Team Workshop
+
+### Day 07
+
+- 클래스
+  - 객체 지향 프로그래밍
+  - OOP 특징
+  - 객체란?
+  - 객체간의 관계
+
 > #### Day 1~4(ch 1~4) Review
 
 
