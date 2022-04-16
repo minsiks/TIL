@@ -47,6 +47,8 @@
   - 객체간의 관계
 
 > #### Day 1~4(ch 1~4) Review
+>
+> #### Day 5~7(ch 5) Review
 
 
 ## -- Git & Github --
