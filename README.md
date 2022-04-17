@@ -49,6 +49,8 @@
 > #### Day 1~4(ch 1~4) Review
 >
 > #### Day 5~7(ch 5) Review
+>
+> #### Day 7 - (2) java coding practice
 
 
 ## -- Git & Github --
