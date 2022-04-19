@@ -46,6 +46,28 @@
   - 객체란?
   - 객체간의 관계
 
+### Day 08
+- 클래스
+  - 객체 지향 프로그래밍의 특징
+  - 객체와 클래스
+  - 생성자 오버로딩(overloading)
+  - 메소드 오버로딩
+  - 접근 제한자
+- 상속
+  - 오버라이딩(overriding)
+  - heterogeneous
+
+### Day 09 
+
+- 상속
+  - 상속 개념의 활용
+  - extends 키워드
+  - 부모 생성자 호출
+  - 메소드의 재정의 (override)
+  - final 클래스와 final 메소드
+  - protected 접근 제한자
+  - 타입변환과 다형성(polymorphism)
+
 > #### Day 1~4(ch 1~4) Review
 >
 > #### Day 5~7(ch 5) Review
