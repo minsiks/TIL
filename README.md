@@ -68,6 +68,16 @@
   - protected 접근 제한자
   - 타입변환과 다형성(polymorphism)
 
+### day 10
+
+- 상속
+  - 추상 클래스 (Abstract Class)
+- 인터페이스
+  - ArrayList
+  - 인터페이스의 역할
+  - 인터페이스 선언
+  - 인터페이스 구현
+
 > #### Day 1~4(ch 1~4) Review
 >
 > #### Day 5~7(ch 5) Review
