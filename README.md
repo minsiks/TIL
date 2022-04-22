@@ -89,6 +89,23 @@
 - 예외 처리 코드(try-catch-finally)
 - 예외 떠넘기기
 
+### day 12
+
+- 기본 API 클래스
+  - 자바 API란?
+  - 자바 API 도큐먼트
+  - java.lang과 java.util 패키지
+  - Object 클래스
+  - String 클래스
+  - StringBuffer
+  - Wrapper(포장) 클래스
+  - Math, Random 클래스
+  - Date, Calendar 클래스
+  - Format 클래스
+- 컬렉션 프레임 워크 소개
+  - LIFO (후입선출) 와 FIFO (선입선출) 컬렉션
+- 제네릭
+
 > #### Day 1~4(ch 1~4) Review
 >
 > #### Day 5~7(ch 5) Review
