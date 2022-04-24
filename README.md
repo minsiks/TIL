@@ -121,4 +121,5 @@
   - CLI
   - Mark down
 ### Day 02
-  - git과 github 연동
+  - git과 github 연동dd
+  - 
