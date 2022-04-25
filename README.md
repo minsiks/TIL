@@ -106,6 +106,12 @@
   - LIFO (후입선출) 와 FIFO (선입선출) 컬렉션
 - 제네릭
 
+### day 13
+
+- 멀티 스레드
+  - 프로세스
+- MySQL
+
 > #### Day 1~4(ch 1~4) Review
 >
 > #### Day 5~7(ch 5) Review
