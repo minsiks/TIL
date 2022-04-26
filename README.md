@@ -112,6 +112,10 @@
   - 프로세스
 - MySQL
 
+### day 14
+
+- JAVA -> MySQL Workbench
+
 > #### Day 1~4(ch 1~4) Review
 >
 > #### Day 5~7(ch 5) Review
@@ -128,4 +132,5 @@
   - Mark down
 ### Day 02
   - git과 github 연동dd
-  - 
+
+    
