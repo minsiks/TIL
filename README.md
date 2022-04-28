@@ -1,10 +1,13 @@
 #  Today I Learned in Multicampus
 
-> 살만한 책  *java(OOP) Design Pattern : 헤드퍼스트 디자인패턴 - 한빛미디어*
+> 살만한 책
+>
+> - *java(OOP) Design Pattern : 헤드퍼스트 디자인패턴 - 한빛미디어*
+> - *시험장에 몰래 가져갈 이경오의 SQL+SQLD 비밀노트*
 >
 > JAva
 >
-> 자격증 Try : 정보처리 기능사 (6/7)
+> 자격증 Try : 정보처리 기능사 (6/7) , SQLD
 
 
 
@@ -116,6 +119,8 @@
 
 - JAVA -> MySQL Workbench
 
+### day 15
+
 > #### Day 1~4(ch 1~4) Review
 >
 > #### Day 5~7(ch 5) Review
@@ -131,6 +136,25 @@
   - CLI
   - Mark down
 ### Day 02
-  - git과 github 연동dd
+  - git과 github 연동
 
-    
+
+## -- SQL --
+
+### Day 01
+
+- 시스템 구축
+
+- DDL, DML
+
+- ERD
+
+- MySQL 전체 운영 실습
+
+- view
+
+- 명령프롬프터로  MySQL 들어가기
+
+- Ch06 SQL기본
+
+  
