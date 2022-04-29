@@ -8,6 +8,8 @@
 > JAva
 >
 > 자격증 Try : 정보처리 기능사 (6/7) , SQLD
+>
+> [6조 (padlet.com)](https://padlet.com/seolyeonmoon/Bookmarks)
 
 
 
@@ -157,4 +159,16 @@
 
 - Ch06 SQL기본
 
-  
+
+### Day 02
+
+- Ch08 SQL기본
+  - GROUP BY절
+  - AUTU_INCREMENT
+  - 데이터의 삭제 : DELETE FROM
+  - WITH절
+- Ch07 SQL 고급
+  - 데이터 형식
+  - 데이터 형식 변환 함수
+  - 내장 함수
+
