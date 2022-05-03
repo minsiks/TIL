@@ -172,3 +172,20 @@
   - 데이터 형식 변환 함수
   - 내장 함수
 
+### Day 03
+
+- JOIN
+  - INNER JOIN
+  - LEFT/RIGHT OUTER JOIN
+  - CROSS JOIN
+  - SELF JOIN
+
+### Day 04
+
+- Ch08 테이블과 뷰
+  - SQL을 이용해서 테이블 생성
+  - 제약조건
+    - 기본키 제약 조건
+    - 외래 키 제약 조건
+    - UNIQUE 제약 조건, CHECK 제약 조건, DEFAULT 정의
+  - 뷰
