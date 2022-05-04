@@ -189,3 +189,7 @@
     - 외래 키 제약 조건
     - UNIQUE 제약 조건, CHECK 제약 조건, DEFAULT 정의
   - 뷰
+
+### Day 05
+
+- DDL, DML TEAM WORKSHOP
