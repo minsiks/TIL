@@ -194,4 +194,13 @@
 
 - DDL, DML TEAM WORKSHOP
 
---
+## -- Github, 취업특강--
+
+### Day 01
+
+- MOOC
+- 프로젝트
+- AWS re:Invent
+- 개발자의 분류
+- 취업사이트
+- 채용 분석
