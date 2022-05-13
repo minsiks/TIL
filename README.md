@@ -5,13 +5,37 @@
 > - *java(OOP) Design Pattern : 헤드퍼스트 디자인패턴 - 한빛미디어*
 > - *시험장에 몰래 가져갈 이경오의 SQL+SQLD 비밀노트*
 >
-> JAva
->
 > 자격증 Try : 정보처리 기능사 (6/7) , SQLD
 >
 > [6조 (padlet.com)](https://padlet.com/seolyeonmoon/Bookmarks)
 
+--------------
 
+> 참고 사이트
+>
+> -- study site --
+>
+> > [W3Schools Online Web Tutorials](https://www.w3schools.com/)
+>
+> -- boot strap site --
+>
+> > [**https://startbootstrap.com/**](https://startbootstrap.com/)
+> >
+> > [**https://templated.co/**](https://templated.co/)
+> >
+> > [**https://bootstrapmade.com**](https://bootstrapmade.com/)
+> >
+> > [**https://uicookies.com/free-bootstrap-portfolio-templates/**](https://uicookies.com/free-bootstrap-portfolio-templates/)
+> >
+> > [**https://themewagon.com/41-free-high-quality-responsive-personal-portfolio-website-html5-bootstrap-templates-2018/**](https://themewagon.com/41-free-high-quality-responsive-personal-portfolio-website-html5-bootstrap-templates-2018/)
+>
+> -- Color codes site --
+>
+> > [HTML Color Codes](https://htmlcolorcodes.com/)
+>
+> -- Font site --
+>
+> > fonts.google.com
 
 ## -- JAVA --
 ### Day 01
@@ -255,3 +279,12 @@
   - 글자 속성
   - 위치 속성
 - 시멘틱 태그를 이용한 시멘틱 웹 구현 실습
+
+### Day 03
+
+- ch.08 반응형 웹
+  - 반응형 웹 소개
+  - 반응형 웹 실습
+- jsp를 이용한 화면전환
+- thymeleaf를 이용한 화면전환
+- bootstrap 활용
