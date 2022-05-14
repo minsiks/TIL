@@ -9,7 +9,11 @@
 ### 2. DDL, DML
 
 - DDL : CREATE, DROP, ALTER ,,
+  - 데이터 정의어
+
 - DML : SELECT, INSERT, DELETE, UPDATE, ...
+  - 데이터 조작어
+
 
 ### 3. ERD
 
