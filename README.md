@@ -280,7 +280,7 @@
   - 위치 속성
 - 시멘틱 태그를 이용한 시멘틱 웹 구현 실습
 
-### Day 03
+### Day 04
 
 - ch.08 반응형 웹
   - 반응형 웹 소개
@@ -289,4 +289,31 @@
 - thymeleaf를 이용한 화면전환
 - bootstrap 활용
 
-했어요~
+### Day 05
+
+- HTML5
+  - HTML5의 필요성
+  - HTML5의 신규기능
+  - HTML5 구성
+- JavaScript
+  - What is JavaScript
+  - JavaScript의 필요성
+  - JavaScript의 구조
+  - JavaScript의 Date Type
+
+- 계산기 만들기 실습
+
+### Day 06
+
+- JavaScript
+  - Array
+  - DOM
+  - BOM
+- jQuery
+  - What is jQuery
+  - jQuery 특징
+  - jQuery 설치
+  - jQuery 구조
+  - Systax(구문)
+  - 함수
+- 회원가입창 bootcamp활용하여 만들기 실습

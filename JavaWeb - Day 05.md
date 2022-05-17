@@ -69,7 +69,7 @@ window.onload = function(){ // 페이지가 출력이 되면 자동으로 동작
 	h3.innerHTML = result;	
 ```
 
-### 4. Daye Type
+### 4. Date Type
 
 - 변수 선언, 함수 선언, Object 생성시 명명 규칙
   - 스페이스는 포함 할 수 없다.
