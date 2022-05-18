@@ -317,3 +317,17 @@
   - Systax(구문)
   - 함수
 - 회원가입창 bootcamp활용하여 만들기 실습
+
+### Day 06
+
+- jQuery 함수
+  - show/hide
+  - get/set content and attributes
+  - add/remove elements/content
+  - get/set Css classes
+  - traversing filtering
+  - 애니메이션 효과
+  - 시간별 이미지 전환
+  - 무한스크롤
+
+- 이미지 자동 넘기기 실습
