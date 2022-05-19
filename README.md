@@ -318,7 +318,7 @@
   - 함수
 - 회원가입창 bootcamp활용하여 만들기 실습
 
-### Day 06
+### Day 07
 
 - jQuery 함수
   - show/hide
@@ -331,3 +331,9 @@
   - 무한스크롤
 
 - 이미지 자동 넘기기 실습
+
+### Day 08
+
+- AJAX
+  - What is AJAX
+  - jQeury를 이용한 AJAX
