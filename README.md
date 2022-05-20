@@ -337,3 +337,9 @@
 - AJAX
   - What is AJAX
   - jQeury를 이용한 AJAX
+
+### Day 08
+
+- AJAX
+  - JASON을 활용한 AJAX
+  - 수행평가
