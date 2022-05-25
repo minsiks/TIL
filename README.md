@@ -338,8 +338,21 @@
   - What is AJAX
   - jQeury를 이용한 AJAX
 
-### Day 08
+### Day 09
 
 - AJAX
   - JASON을 활용한 AJAX
   - 수행평가
+
+### Day 10
+
+- KAKAO MAP API
+
+### Day 10
+
+- KAKAO MAP API
+  - 라이브러리
+  - 마커에 마우스 오버아웃 이벤트 등록
+  - 여러개의 마크 표시하기
+- OPENAPI
+  - https://www.data.go.kr/
