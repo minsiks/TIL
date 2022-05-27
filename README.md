@@ -371,3 +371,9 @@
 ### Day 01
 
 - 스프링 환경 설정
+
+## -- Portfolio, Notion --
+
+### Day 01
+
+- Notion
