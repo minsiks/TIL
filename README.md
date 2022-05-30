@@ -372,6 +372,11 @@
 
 - 스프링 환경 설정
 
+### Day 02
+
+- DI
+- AOP
+
 ## -- Portfolio, Notion --
 
 ### Day 01
