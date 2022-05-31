@@ -15,6 +15,8 @@
 >
 > -- study site --
 >
+> > [Baekjoon 알고리즘 코딩](https://www.acmicpc.net/)
+>
 > > [W3Schools Online Web Tutorials](https://www.w3schools.com/)
 >
 > -- boot strap site --
@@ -376,6 +378,12 @@
 
 - DI
 - AOP
+
+### Day 03
+
+- SPRING, Mybastis
+  - Mybatis 세팅
+  - 예외 상황 설정 (Exception)
 
 ## -- Portfolio, Notion --
 
