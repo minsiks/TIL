@@ -46,6 +46,9 @@
 > - 알고리즘의 이해
 > - 객체란..?
 > - 개발툴에 대해
+> - 스프링의 핵심모델 3가지의 정의와 차이점 (IOC/DI, 서비스 추상화, AOP)
+> - 팀리프의 사용용도와 정의
+> - Model And View의 동작원리
 
 ## -- JAVA --
 
@@ -384,6 +387,18 @@
 - SPRING, Mybastis
   - Mybatis 세팅
   - 예외 상황 설정 (Exception)
+
+### Day 04
+
+- SPRINGBOOT
+  - SPRING BOOT를 활용하여 웹환경과 DB 연결
+    - Spring Starter Project 설정
+    - Spring Starter Project Dependencies 설정
+    - pom.xml 추가
+    - src/main/resources에 applications.properties 파일 수정
+    - VO.java 파일 생성 및 lombok 설정
+    - applications.properties에 설정한 값에 따라 패키지 생성
+    - 인터페이스와 controller를 이용하여 web연결 및 회원정보 db로 전송
 
 ## -- Portfolio, Notion --
 
