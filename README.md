@@ -38,6 +38,10 @@
 > -- Font site --
 >
 > > fonts.google.com
+>
+> -- thymeleaf --
+>
+> [Tutorial: Using Thymeleaf](https://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html#setting-attribute-values)
 
 > *공부 중 미진한 부분, 앞으로 정리하고 정의,공부할 것들*
 >
@@ -399,6 +403,14 @@
     - VO.java 파일 생성 및 lombok 설정
     - applications.properties에 설정한 값에 따라 패키지 생성
     - 인터페이스와 controller를 이용하여 web연결 및 회원정보 db로 전송
+
+### Day 05
+
+- SPRINGBOOT
+  - ajax를 이용한 차트 생성 및 데이터 연동
+  - 디렉토리 정리
+  - 인클루드
+  - 부트스트랩 사용
 
 ## -- Portfolio, Notion --
 
