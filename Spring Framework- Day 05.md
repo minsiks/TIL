@@ -164,4 +164,4 @@ $(document).ready(function(){
 
 ### 4. 부트스트랩 사용
 
-> [Tutorial: Using Thymeleaf](https://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html#setting-attribute-values)
+> [Tutorial: Using Thymeleaf](https://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html#setting-attribute-values)  

@@ -1,4 +1,4 @@
-#  Today I Learned in Multicampus
+#  Today I Learned
 
 > 살만한 책
 >
@@ -53,6 +53,7 @@
 > - 스프링의 핵심모델 3가지의 정의와 차이점 (IOC/DI, 서비스 추상화, AOP)
 > - 팀리프의 사용 용도와 정의
 > - Model And View의 동작원리
+> - 컴파일의 정의
 
 ## -- JAVA --
 
@@ -417,3 +418,10 @@
 ### Day 01
 
 - Notion
+
+## -- Terminology Organization --
+
+### _1 JSP와 Servlet(서블릿) 비교
+
+- Servlet
+- JSP
