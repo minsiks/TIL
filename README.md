@@ -1,11 +1,11 @@
 #  Today I Learned
 
-> 살만한 책
+> :books: 살만한 책
 >
 > - *java(OOP) Design Pattern : 헤드퍼스트 디자인패턴 - 한빛미디어*
 > - *시험장에 몰래 가져갈 이경오의 SQL+SQLD 비밀노트*
 >
-> 자격증 Try : 정보처리 기능사 (6/7) , SQLD
+> :100: 자격증 Try : 정보처리 기능사 (6/7) , SQLD
 >
 > [6조 (padlet.com)](https://padlet.com/seolyeonmoon/Bookmarks)
 
@@ -13,13 +13,17 @@
 
 > 참고 사이트
 >
-> -- study site --
+> -- :minidisc: data site --
+>
+> [공공데이터포털](https://www.data.go.kr/)
+>
+> --  :book: study site --
 >
 > > [Baekjoon 알고리즘 코딩](https://www.acmicpc.net/)
 >
 > > [W3Schools Online Web Tutorials](https://www.w3schools.com/)
 >
-> -- boot strap site --
+> -- :seedling: boot strap site --
 >
 > > [**https://startbootstrap.com/**](https://startbootstrap.com/)
 > >
@@ -31,19 +35,19 @@
 > >
 > > [**https://themewagon.com/41-free-high-quality-responsive-personal-portfolio-website-html5-bootstrap-templates-2018/**](https://themewagon.com/41-free-high-quality-responsive-personal-portfolio-website-html5-bootstrap-templates-2018/)
 >
-> -- Color codes site --
+> -- :earth_asia: Color codes site --
 >
 > > [HTML Color Codes](https://htmlcolorcodes.com/)
 >
-> -- Font site --
+> -- :pen: Font site --
 >
 > > fonts.google.com
 >
-> -- thymeleaf --
+> -- :fallen_leaf: thymeleaf --
 >
 > [Tutorial: Using Thymeleaf](https://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html#setting-attribute-values)
 
-> *공부 중 미진한 부분, 앞으로 정리하고 정의,공부할 것들*
+>  :beach_umbrella: *공부 중 미진한 부분, 앞으로 정리하고 정의,공부할 것들* 
 >
 > - 서블렛과 JSP의 정의와 비교
 > - 스프링의 원리와 이해
@@ -412,6 +416,17 @@
   - 디렉토리 정리
   - 인클루드
   - 부트스트랩 사용
+
+### Day 06
+
+- SPRINGBOOT
+  - session 사용
+  - Auto_increment로 입력된 아이디 값 찾아서 표시하기
+  - Thymeleaf에서의 if-else 절
+  - 다국어 처리
+- Workshop shoppingdb CRUD 기능 구현 및 테스트
+  - xml문에서 if 문을 사용, 여러가지 상황 가정 만들기
+  - JOIN이용하여 다양한 결과 값 얻기
 
 ## -- Portfolio, Notion --
 
