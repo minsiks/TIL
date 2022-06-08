@@ -428,6 +428,12 @@
   - xml문에서 if 문을 사용, 여러가지 상황 가정 만들기
   - JOIN이용하여 다양한 결과 값 얻기
 
+### Day 07
+
+- SPRINGBOOT
+  - Group By를 이용한 결과 값, DB에서 얻기
+  - 관리자를 나누어 환경 설정
+
 ## -- Portfolio, Notion --
 
 ### Day 01
