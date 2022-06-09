@@ -434,6 +434,11 @@
   - Group By를 이용한 결과 값, DB에서 얻기
   - 관리자를 나누어 환경 설정
 
+### Day 08
+
+- SPRINGBOOT
+  - web에 각 DB 테이블 CRUD 설정하기
+
 ## -- Portfolio, Notion --
 
 ### Day 01
