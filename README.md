@@ -439,6 +439,12 @@
 - SPRINGBOOT
   - web에 각 DB 테이블 CRUD 설정하기
 
+### Day 09
+
+- SPRINGBOOT
+  - Form에 파일을 넣어서 보내기
+- Semi-Project Team 편성
+
 ## -- Portfolio, Notion --
 
 ### Day 01
