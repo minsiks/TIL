@@ -445,6 +445,17 @@
   - Form에 파일을 넣어서 보내기
 - Semi-Project Team 편성
 
+### Day 10
+
+- SPRINGBOOT
+  - 수업내용
+
+### Day 11
+
+- SPRINGBOOT
+  - Spring이용, 상단메뉴를 다양한 화면에서 동일하게 적용하기
+  - Semi-Project 브레인 스토밍
+
 ## -- Portfolio, Notion --
 
 ### Day 01
@@ -453,9 +464,8 @@
 
 ## -- Terminology Organization --
 
-### _1 JSP와 Servlet(서블릿) 비교
+### 1 JSP와 Servlet(서블릿) 비교
 
 - Servlet
 - JSP
 
--1
