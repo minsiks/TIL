@@ -456,6 +456,16 @@
   - Spring이용, 상단메뉴를 다양한 화면에서 동일하게 적용하기
   - Semi-Project 브레인 스토밍
 
+### Day 12
+
+- SPRINGBOOT
+
+  - 세부 Product page 만들기
+
+  - Modal을 사용해 ORDER 작동시키기
+
+- :star:[Thymeleaf] 기본 문법
+
 ## -- Portfolio, Notion --
 
 ### Day 01
