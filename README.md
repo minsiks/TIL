@@ -463,8 +463,12 @@
   - 세부 Product page 만들기
 
   - Modal을 사용해 ORDER 작동시키기
-
 - :star:[Thymeleaf] 기본 문법
+
+### Day 12
+
+- SPRINGBOOT
+  - 다국어 설정
 
 ## -- Portfolio, Notion --
 

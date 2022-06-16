@@ -38,6 +38,10 @@
 ```html
 태그에 값 셋팅
 <div th:text="${sports}"></div>
+//sports가 옵젝일때
+<div th:text="${sports.id}"></div>
+//session 설정
+<div th:text="${session.logincust.id}"></div>
 
 태그에 값 셋팅 (연산)
 <span th:text="${sports}-1"></span><span th:text="${sports-1}"></span>
