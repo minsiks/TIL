@@ -465,10 +465,15 @@
   - Modal을 사용해 ORDER 작동시키기
 - :star:[Thymeleaf] 기본 문법
 
-### Day 12
+### Day 13
 
 - SPRINGBOOT
   - 다국어 설정
+
+### Day 13
+
+- SPRINGBOOT
+  - 세미프로젝트 구상 및 환경 구축
 
 ## -- Portfolio, Notion --
 
