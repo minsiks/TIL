@@ -59,6 +59,7 @@
 >  - Model And View의 동작원리
 >  - 컴파일의 정의
 >  - 쿼리스트링
+>  - Linux OS
 
 ## -- JAVA --
 
@@ -481,6 +482,13 @@
 ### Day 01
 
 - Notion
+
+## -- Cloud Platform --
+
+### Day 01
+
+- NCP(Naver Cloud Platform)
+  - [NCP] 접속 가이드
 
 ## -- Terminology Organization --
 
