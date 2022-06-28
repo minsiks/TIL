@@ -14,7 +14,7 @@
 
 ### CLOUD
 
-- IAAS - Linux OS, JDK, Mysql, Web Server
+- IAAS - Linux OS(CentOS7), JDK(1.8) , Mysql(8), Web Server(TOMCAT)
   - Linux OS는 개별적 공부가 필요.
   - centOS
 - PAAS - Naver AI Platform

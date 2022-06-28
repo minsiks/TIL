@@ -490,10 +490,25 @@
 - NCP(Naver Cloud Platform)
   - [NCP] 접속 가이드
 
+### Day 02
+
+- NCP(Naver Cloud Platform)
+  - CentOS 명령어 정리
+  - 
+
+
+
 ## -- Terminology Organization --
 
 ### 1 JSP와 Servlet(서블릿) 비교
 
 - Servlet
-- JSP
+
+- [CentOS]JDK1.8 설치
+
+- [CentOS]Mysql8.0 설치
+
+- [Centos] PC 파일 전송 압축 해제
+
+  
 
