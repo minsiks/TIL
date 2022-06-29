@@ -46,6 +46,10 @@
 > -- :fallen_leaf: thymeleaf --
 >
 > [Tutorial: Using Thymeleaf](https://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html#setting-attribute-values)
+>
+> -- :briefcase: 프로젝트 의뢰 사이트 --
+>
+> [진행중인 의뢰 리스트 | 캐스팅엔 (castingn.com)](https://www.castingn.com/projectList)
 
 >  :beach_umbrella: *공부 중 미진한 부분, 앞으로 정리하고 정의,공부할 것들* 
 >
@@ -494,9 +498,12 @@
 
 - NCP(Naver Cloud Platform)
   - CentOS 명령어 정리
-  - 
 
+### Day 03
 
+- [CentOS] Apach-Tomcat 설치
+- 현재 PC에서 [CentOS]로 war파일 전송 후 아파치 톰캣 서버에 띄우기
+  - [CentOs] 복사하는 방법
 
 ## -- Terminology Organization --
 
