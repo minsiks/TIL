@@ -505,6 +505,11 @@
 - 현재 PC에서 [CentOS]로 war파일 전송 후 아파치 톰캣 서버에 띄우기
   - [CentOs] 복사하는 방법
 
+### Day 04
+
+- [CentOS] Mysql 삭제
+- 다시 NCP 환경 설정
+
 ## -- Terminology Organization --
 
 ### 1 JSP와 Servlet(서블릿) 비교
