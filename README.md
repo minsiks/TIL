@@ -13,6 +13,10 @@
 
 > 참고 사이트
 >
+> -- :tv: seminar --
+>
+> [AWS Builders 온라인 시리즈 (amazon.com)](https://aws.amazon.com/ko/events/builders-online-series/)
+>
 > -- :minidisc: data site --
 >
 > [공공데이터포털](https://www.data.go.kr/)
