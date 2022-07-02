@@ -510,6 +510,15 @@
 - [CentOS] Mysql 삭제
 - 다시 NCP 환경 설정
 
+## -- Mentoring --
+
+### Day 01
+
+- 멘토링 소개
+- 세미나
+- 질의 응답
+- 개인적인 질문
+
 ## -- Terminology Organization --
 
 ### 1 JSP와 Servlet(서블릿) 비교
