@@ -514,6 +514,11 @@
 - [CentOS] Mysql 삭제
 - 다시 NCP 환경 설정
 
+### Day 05
+
+- NCP 환경 이미지
+- 카카오 API 이용하기
+
 ## -- Mentoring --
 
 ### Day 01
