@@ -3,9 +3,9 @@
 > :books: 살만한 책
 >
 > - *java(OOP) Design Pattern : 헤드퍼스트 디자인패턴 - 한빛미디어*
-> - *시험장에 몰래 가져갈 이경오의 SQL+SQLD 비밀노트*
+> - ~~*시험장에 몰래 가져갈 이경오의 SQL+SQLD 비밀노트*~~
 >
-> :100: 자격증 Try : 정보처리 기능사 (6/7) , SQLD
+> :100: 자격증 Try : 정보처리 기능사 (6/7) , ~~SQLD~~ (합격)
 >
 > [6조 (padlet.com)](https://padlet.com/seolyeonmoon/Bookmarks)
 
@@ -502,6 +502,10 @@
 
 - NCP(Naver Cloud Platform)
   - CentOS 명령어 정리
+- [CentOS]JDK1.8 설치
+- [CentOS]Mysql8.0 설치
+
+- [Centos] PC 파일 전송 압축 해제
 
 ### Day 03
 
@@ -519,6 +523,10 @@
 - NCP 환경 이미지
 - 카카오 API 이용하기
 
+### Day 06
+
+- PaPaGo
+
 ## -- Mentoring --
 
 ### Day 01
@@ -533,12 +541,6 @@
 ### 1 JSP와 Servlet(서블릿) 비교
 
 - Servlet
-
-- [CentOS]JDK1.8 설치
-
-- [CentOS]Mysql8.0 설치
-
-- [Centos] PC 파일 전송 압축 해제
 
   
 
