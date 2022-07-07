@@ -527,6 +527,14 @@
 
 - PaPaGo
 
+### Day 07
+
+- RFP (제안 요청서)
+- 요구사항 정의서
+- 테이블 만들기
+- UI 설계
+- ERD 점검 및 DDL
+
 ## -- Mentoring --
 
 ### Day 01
