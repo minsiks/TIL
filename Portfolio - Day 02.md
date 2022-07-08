@@ -1,6 +1,8 @@
 # 7/8 Portfolio Day 02
 
 > [수업 자료, 면접 참고 자료 사이트](https://hphk-edu.notion.site/AI-14-0989b3a021394e58a3e22d497ec4e964)
+>
+> https://www.notion.so/hphk-edu/AI-14-0989b3a021394e58a3e22d497ec4e964
 
 ## 면접 전형 특강
 
