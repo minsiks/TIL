@@ -533,7 +533,7 @@
 
 ### Day 06
 
-- PaPaGo
+- PaPaGo 활용
 
 ### Day 07
 
