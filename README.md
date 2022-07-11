@@ -55,6 +55,10 @@
 > -- :briefcase: 프로젝트 의뢰 사이트 --
 >
 > [진행중인 의뢰 리스트 | 캐스팅엔 (castingn.com)](https://www.castingn.com/projectList)
+>
+> -- :ice_cream:아이콘 사이트 --
+>
+> [벡터 아이콘 및 스티커 - PNG, SVG, EPS, PSD 및 CSS (flaticon.com)](https://www.flaticon.com/kr/)
 
 >  :beach_umbrella: *공부 중 미진한 부분, 앞으로 정리하고 정의,공부할 것들* 
 >
@@ -542,6 +546,11 @@
 - 테이블 만들기
 - UI 설계
 - ERD 점검 및 DDL
+
+### Day 07
+
+- CLOVA OCR
+- CLOVA Chatbot
 
 ## -- Mentoring --
 
