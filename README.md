@@ -547,10 +547,15 @@
 - UI 설계
 - ERD 점검 및 DDL
 
-### Day 07
+### Day 08
 
 - CLOVA OCR
 - CLOVA Chatbot
+
+### Day 09
+
+- WebSocket
+- Scheduler
 
 ## -- Mentoring --
 
