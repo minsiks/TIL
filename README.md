@@ -570,6 +570,6 @@
 
 ### 1 JSP와 Servlet(서블릿) 비교
 
-- Servlet
+- Servlet 
 
 
