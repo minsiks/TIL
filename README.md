@@ -557,6 +557,10 @@
 - WebSocket
 - Scheduler
 
+### Day 10
+
+- CentOS 이미지 저장하는 위치 지정
+
 ## -- Mentoring --
 
 ### Day 01
@@ -566,10 +570,14 @@
 - 질의 응답
 - 개인적인 질문
 
-## -- Terminology Organization --
+## -- Terminology Organization 
 
-### 1 JSP와 Servlet(서블릿) 비교
-
+### 1. JSP와 Servlet(서블릿) 비교
 - Servlet 
 
+## -- Algorithm --
 
+### Day 01
+
+- 개인 공부(백준 온라인 단계별)
+  1. 입출력과 사칙연산 (1-Hello World ~ 사칙연산)
