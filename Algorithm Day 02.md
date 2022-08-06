@@ -1,4 +1,4 @@
-# 7/24 Algorithm Day 01
+# 7/26 Algorithm Day 02
 
 ## 개인 공부 (백준 온라인 단계별)
 
