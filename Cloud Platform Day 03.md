@@ -43,7 +43,7 @@ http://공인아이피:8080/
 
 1. 이클립스에서 war파일로 export
 
-2. PC의 DOS(명령 프롬프트)에서 `scp -P 60003 day05.war root@49.236.136.104:/root`
+2. PC의 DOS(명령 프롬프트)에서 `scp -P 60003 day05.war root@49.236.136.104:/root` or `scp -P 22 a.zip root@[공인ip]:/root`
 
    로 Centos로 보내기
 

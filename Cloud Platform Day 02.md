@@ -286,7 +286,7 @@ mysql> select host,user from user; # 다시 확인
 
 ### 3.[Centos] PC 파일 전송 압축 해제
 
-```
+```d
 1. 명령프롬프트 실행 후 
 
 디렉토리를 zip 형태로 묶은 파일을 전송
