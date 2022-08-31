@@ -1,4 +1,4 @@
-# 8/13 Algorithm Day 05
+# 8/30 Algorithm Day 06
 
 ## 개인 공부 (백준 온라인 단계별)
 
@@ -104,6 +104,4 @@ public class Main {
 	}
 }
 ```
-
-### 3-13 더하기 사이클
 
