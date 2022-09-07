@@ -1,4 +1,4 @@
-# 8/31 Algorithm Day 07
+# 8/31 Algorithm Day 08
 
 ## 개인 공부 (백준 온라인 단계별)
 
