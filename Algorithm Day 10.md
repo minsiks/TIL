@@ -27,3 +27,24 @@ public class Solution {
 ```
 
 - String.substring(i,i+1); 스트링 짜르기
+
+### 핸드폰 번호 가리기
+
+```java
+class Solution {
+  public String solution(String phone_number) {
+      String answer = "";
+      for(int i = 0; i < phone_number.length(); i++){
+         if(i < phone_number.length()-4){
+             answer += "*";
+         }
+         else{
+             answer += phone_number.charAt(i);
+         }
+      }
+      return answer;
+  }
+}
+```
+
+- .charAt(n) = n에 있는 글자 뽑아옴
