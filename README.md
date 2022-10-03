@@ -1,4 +1,4 @@
-9#  Today I Learned
+99#  Today I Learned
 
 > :books: 살만한 책
 >
@@ -626,6 +626,6 @@
 
 ### Day 10
 
-- 개인 공
+- 개
    
 
