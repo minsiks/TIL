@@ -1,4 +1,4 @@
-99#  Today I Learned
+#  Today I Learned
 
 > :books: 살만한 책
 >
