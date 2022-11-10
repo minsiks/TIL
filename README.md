@@ -8,7 +8,6 @@
 >
 > :100: 자격증 Try : ~~정보처리 기사 (6/7) 필기 합격~~ (), ~~SQLD~~ (합격) , 정보처리 기사 실기
 >
-> [6조 (padlet.com)](https://padlet.com/seolyeonmoon/Bookmarks)
 
 --------------
 
@@ -27,6 +26,8 @@
 > > [Baekjoon 알고리즘 코딩](https://www.acmicpc.net/)
 >
 > > [W3Schools Online Web Tutorials](https://www.w3schools.com/)
+> >
+> > [개발자를 위한 웹 기술 | MDN (mozilla.org)](https://developer.mozilla.org/ko/docs/Web)
 >
 > -- :seedling: boot strap site --
 >
@@ -73,6 +74,8 @@
 >  - 컴파일의 정의
 >  - 쿼리스트링
 >  - Linux OS
+
+## ************ MultiCampus ********
 
 ## -- JAVA --
 
@@ -613,12 +616,12 @@
 - 개인 공부(백준 온라인 단계별)
   3. 반복문 (3-12까지)
   4. 배열 (4-2 까지)
- 
+
 ### Day 08
 
 - 개인 공부(백준 온라인 단계별)
   4. 배열 (4-5 까지)
-   
+  
 ### Day 09
 
 - 개인 공부(백준 온라인 단계별)
@@ -628,3 +631,83 @@
 
 - 개인 공부(백준 온라인 단계별)
 
+---------------------
+
+## ************ OJT ******** (.docx File)
+
+## -- Web 개발의 이해 --
+
+### Day 01 
+
+- 웹과 인터넷의 이해
+  - 인터넷 구분
+  - 프로토콜
+
+## -- Spring FrameWork 기본 --
+
+### Day 01
+
+- 스프링이란?
+- 스프링 프로젝트 만들기
+
+### Day 02
+
+- DI(Dependency Injection)
+- DI 활용
+- DI 설정 방법
+- 생명 주기 (life cycle)와 벙위(scope)
+- 외부 파일을 이용한 설정
+- AOP(Aspect Oriented Programming)
+
+### Day 03
+
+- AOP
+- 스프링 MVC 기초
+- 컨트롤러
+- Form 데이터
+- @RequestMapping 파라미터
+- 폼 데이터 값 검증
+- 스프링 MVC 게시판
+
+### Day 04
+
+- 스프링 MVC 게시판
+
+### Day 05
+
+- 스프링 MVC 게시판
+- 트랜 잭션
+- Security
+
+### Day 06
+
+- Security
+- Mybatis
+
+-------
+
+## ************ Etc. ************
+
+## Spring 리뷰
+
+### Day 01
+
+- HTML VS XML
+- Spring 의존성 주입의 개념과 필요성
+
+### Day 02
+
+- Inflearn 스프링입문_김영한
+  - 프로젝트 생성
+  - View 환경설정
+  - 빌드하고 실행하기
+  - 정적 컨텐츠 (Static Content)
+  - MVC와 템플릿 엔진
+  - API
+  - 비즈니스 요구사항 정리
+  - 일반적인 웹 애플리케이션 계층 구조
+
+### Day 03
+
+- Inflearn 스프링입문_김영한
+  - 회원 도메인과 리포지토리 만들기
