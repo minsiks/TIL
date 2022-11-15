@@ -28,6 +28,10 @@
 > > [W3Schools Online Web Tutorials](https://www.w3schools.com/)
 > >
 > > [개발자를 위한 웹 기술 | MDN (mozilla.org)](https://developer.mozilla.org/ko/docs/Web)
+> >
+> > [노마드 코더 Nomad Coders - YouTube](https://www.youtube.com/c/노마드코더NomadCoders)
+> >
+> > [모던 JavaScript 튜토리얼](https://ko.javascript.info/)
 >
 > -- :seedling: boot strap site --
 >
