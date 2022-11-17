@@ -709,6 +709,44 @@
     - 반복문
 - DOM 소개
 
+### Day 03
+
+- JavaScript 재입문하기 (JS 튜토리얼)
+  - 생활코딩 - JavaScript 기본 강의 학습
+    - 반복문
+    - 함수
+    - 배열
+    - 객체
+    - 모듈
+    - UI와 API 그리고 문서보는 법
+    - Javascript와 정규표현식
+    - 유효범위
+    - 값으로서의 함수와 콜백
+    - 클로저
+    - arguments
+    - 함수의 호출
+
+###  Day 04
+
+- JavaScript 재입문하기 (JS 튜토리얼)
+  - 생활코딩 - JavaScript 기본 강의 학습
+    - 객체지향 프로그래밍 소개
+    - 생성자와 new
+    - 전역객체
+    - this
+    - 상속 (inheritance)
+    - 표준 내장객체의 확장
+    - Object
+    - 데이터 타입
+    - 참조 (Reference)
+  - [자바스크립트 중급 강좌 : 140분 완성 - YouTube](https://www.youtube.com/watch?v=4_WLS9Lj6n4)
+
+### Day 05
+
+- **JavaScript** **재입문하기(JS 튜토리얼)**
+  - [#1.4 Why JS (07:39) – 노마드 코더 Nomad Coders](https://nomadcoders.co/javascript-for-beginners/lectures/2870) – 순수 자바스크립트
+    - 모멘텀 클론 코딩
+
 -------
 
 ## ************ Etc. ************
