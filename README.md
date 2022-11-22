@@ -747,6 +747,12 @@
   - [#1.4 Why JS (07:39) – 노마드 코더 Nomad Coders](https://nomadcoders.co/javascript-for-beginners/lectures/2870) – 순수 자바스크립트
     - 모멘텀 클론 코딩
 
+## Spring Board 만들기
+
+### Day 01
+
+- ERD CLOUD로 테이블 컬럼 구성하기
+
 -------
 
 ## ************ Etc. ************
@@ -774,4 +780,4 @@
 
 - Inflearn 스프링입문_김영한
   - 회원 도메인과 리포지토리 만들기
- 
+
