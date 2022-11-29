@@ -747,7 +747,7 @@
   - [#1.4 Why JS (07:39) – 노마드 코더 Nomad Coders](https://nomadcoders.co/javascript-for-beginners/lectures/2870) – 순수 자바스크립트
     - 모멘텀 클론 코딩
 
-## Spring Board 만들기
+## -- Spring Board 만들기 --
 
 ### Day 01
 
@@ -784,6 +784,26 @@
 ### Day 07
 
 - 파일 업로드
+
+## -- Spring FrameWork 심화 교육 --
+
+### Day 01
+
+- 프레임워크 개념
+- 프레임워크 개요
+- 프로젝트 시작하기
+- IoC 컨테이너와 DI
+- DI 애플리케이션 작성
+
+### Day 02
+
+- DI 애플리케이션 작성
+- 사용자관리 프로젝트
+- Spring JDBC 개요
+- Spring JDBC 환경설정
+- AOP 개요
+- AOP 애플리케이션 작성
+
 -------
 
 ## ************ Etc. ************
@@ -811,4 +831,3 @@
 
 - Inflearn 스프링입문_김영한
   - 회원 도메인과 리포지토리 만들기
- -
