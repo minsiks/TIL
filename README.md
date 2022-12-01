@@ -811,6 +811,13 @@
 - Spring MVC 개요
 - Spring MVC 웹어플리케이션 작성
 
+### Day 04
+
+- RESTful 웹서비스 개요 및 환경설정
+- RESTful 웹서비스 어플리케이션 작성
+- Ajax와  jQuery 개요
+- Spring RESTful 웹 서비스 어플리케이션 작성
+
 -------
 
 ## ************ Etc. ************
