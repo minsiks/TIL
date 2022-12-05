@@ -1,4 +1,4 @@
-# 11/2 Spring Reviews Day 02
+# 11/3 Spring Reviews Day 03
 
 ## Inflearn 스프링 입문
 
