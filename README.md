@@ -33,6 +33,8 @@
 > > [노마드 코더 Nomad Coders - YouTube](https://www.youtube.com/c/노마드코더NomadCoders)
 > >
 > > [모던 JavaScript 튜토리얼](https://ko.javascript.info/)
+> >
+> > [Coding Games and Programming Challenges to Code Better (codingame.com)](https://www.codingame.com/ide/puzzle/onboarding)
 >
 > -- :seedling: boot strap site --
 >
@@ -865,7 +867,7 @@
   - Spring JAP 제공 클래스
   - AOP
 
-## Spring 리뷰
+##  Java
 
 ### Day 01
 
@@ -873,4 +875,9 @@
   - 자바의 장점
   - 변수와 자료형
   - 자바의 여러 가지 연산자
+  - 클래스와 객체
+
+  ### Day 02
+
+- Inflearn 자바 프로그래밍 입문
   - 클래스와 객체
