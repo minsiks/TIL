@@ -828,6 +828,12 @@
 - Ajax와  jQuery 개요
 - Spring RESTful 웹 서비스 어플리케이션 작성
 
+## -- Spring Board Advenced --
+
+- ERD 재구성
+- MyBatis Query 수정
+- Login 화면 구성 및 User 정보 입력, 관련 VO, Service등 설정
+- Dashboard 화면구성, Session 설정, Tiles 설정 및 구현
 -------
 
 ## ************ Etc. ************
@@ -881,3 +887,4 @@
 
 - Inflearn 자바 프로그래밍 입문
   - 클래스와 객체
+
