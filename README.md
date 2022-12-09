@@ -830,10 +830,18 @@
 
 ## -- Spring Board Advenced --
 
+### Day 01
+
 - ERD 재구성
 - MyBatis Query 수정
 - Login 화면 구성 및 User 정보 입력, 관련 VO, Service등 설정
 - Dashboard 화면구성, Session 설정, Tiles 설정 및 구현
+
+### Day 02
+- 게시판 목록 화면 수정
+  - 게시글수 라디오 버튼
+  - 게시판 Table Head이용 각 열 정렬
+  
 -------
 
 ## ************ Etc. ************
@@ -887,4 +895,3 @@
 
 - Inflearn 자바 프로그래밍 입문
   - 클래스와 객체
-
