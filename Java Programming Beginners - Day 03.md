@@ -1,4 +1,4 @@
-# 22-12-08 Java Programming Beginners - Day 03
+# 22-12-15 Java Programming Beginners - Day 03
 
 ## Inflearn 자바 프로그래밍 입문
 
