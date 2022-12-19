@@ -192,3 +192,4 @@ public class AnimalTest {
   - int add(int x, int y){ } // {} 부분이 구현 내용, 추상 메서드 X
 - abstract 예약어 사용
 - 추상 클래스는 new (인스턴스 화) 할 수 없음
+
