@@ -990,4 +990,14 @@
 - 배열과 리스트
 - 구간합
 - 스택과 큐
- 
+
+## Vuejs2 Basic
+
+### Day 01
+
+- 뷰 인스턴스 생성, Vue Data와 Method, Data Binding
+- Vue Events, 양뱡향 바인딩
+- Computed 속성
+- Watch 속성
+- 클래스 & 스타일 바인딩
+- v-if, v-show
