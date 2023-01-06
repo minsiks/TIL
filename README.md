@@ -1001,3 +1001,19 @@
 - Watch 속성
 - 클래스 & 스타일 바인딩
 - v-if, v-show
+
+### Day 02
+
+- v-if, v-show
+- v-for 리스트 렌더링
+- 여러개의 Vue 인스턴스 사용
+- Vue 컴포넌트
+- Vue CLI로 뷰 설치하기
+- Vue Router
+- 싱글 파일 컴포넌트
+- 자식 컴포넌트에 데이터 보내기 (Props)
+- 부모 컴포넌트로 데이터 보내기(Emit)
+- 슬롯(Slot)
+- 라이프사이클 다이어그램
+- Todo 실습
+- Vuex 준비 및 설치
