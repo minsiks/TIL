@@ -1017,3 +1017,13 @@
 - 라이프사이클 다이어그램
 - Todo 실습
 - Vuex 준비 및 설치
+
+### Day 03
+
+- Vuex 준비 및 설치
+- Vuex State
+- Vuex Mutations
+- Vuex actions
+- Vuex Getters & Map 헬퍼
+- Vuex Modules
+- Vue 게시판 만들기
