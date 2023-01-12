@@ -239,3 +239,7 @@ export default{
 > - 수행 프로젝트 상세조회에 등록자 이름, 등록일시 ?
 
 날짜 정보를 확인해주세요
+
+[개발일기 :: [Eclipse\] import 시 자바버전 맞지 않을때 (tistory.com)](https://dnrdl2001.tistory.com/3)
+
+- 
