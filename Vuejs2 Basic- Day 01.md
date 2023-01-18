@@ -2,6 +2,8 @@
 
 > [[[뷰js 2 (vuejs 2) 기초 익히기 기본 강좌\] 01 뷰 인스턴스 생성하기! - YouTube](https://www.youtube.com/watch?v=gZBKGn0wQXU&list=PLB7CpjPWqHOtYP7P_0Ls9XNed0NLvmkAh)](https://www.youtube.com/watch?v=XncTU-4i1KI&list=PLG7te9eYUi7tAQygBknaTciy8wzLCe-Ll)
 
+![VSTExtention](C:\Users\김민식\Pictures\VSTExtention.png)
+
 ## 뷰 인스턴스 생성, Vue Data와 Method, Data Binding 
 
 ### Vue.js란

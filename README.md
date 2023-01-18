@@ -1036,3 +1036,10 @@
   - 게시판 수정하기
 
 ### Day 05
+
+- 한시간만에 끝내는 vue.js 입문 - YouTube
+  - 초기 환경 설정 및 설치
+  - Vue Life Cycle
+  - watch
+  - v-if, v-show, v-for, v-model, event(@~)
+- vue.js로 게시판 만들기 -Youtube
