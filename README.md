@@ -1043,3 +1043,8 @@
   - watch
   - v-if, v-show, v-for, v-model, event(@~)
 - vue.js로 게시판 만들기 -Youtube
+
+### Day 06
+
+- [Vue.js로 게시판 만들기\] 0. 프롤로그 - YouTube
+- [node.js로 서버만들기\] 2. koa 사용법 - YouTube

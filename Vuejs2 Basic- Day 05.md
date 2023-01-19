@@ -210,13 +210,3 @@ export default{
 
 ## [[Vue.js로 게시판 만들기\] 0. 프롤로그 - YouTube](https://www.youtube.com/watch?v=s1lXVr65KZg&list=PLyjjOwsFAe8ITIDUNsU_x4XNbPJeOvs-b)
 
-
-
-### 이슈사항
-
-- --amend
-- git merge feature/projectdetail
-
-> - 이미지 선택 사항 데이터 보내기, 현재 이미지 없이 서버에 보내면 오류
-> - 수정에서 기존 파일데이터 처리, 3가지 경우의수 현재 기존에 있는 파일 유지하며 수정, 새로운 파일로 수정, 기존 파일 제거 후 수정
-
