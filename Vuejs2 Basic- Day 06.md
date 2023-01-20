@@ -1,4 +1,4 @@
-# 23-1-18 Vuejs 2 기초 Day 05
+# 23-1-19 Vuejs 2 기초 Day 06
 
 ## [[Vue.js로 게시판 만들기\] 0. 프롤로그 - YouTube](https://www.youtube.com/watch?v=s1lXVr65KZg&list=PLyjjOwsFAe8ITIDUNsU_x4XNbPJeOvs-b)
 
