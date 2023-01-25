@@ -1048,3 +1048,31 @@
 
 - [Vue.js로 게시판 만들기\] 0. 프롤로그 - YouTube
 - [node.js로 서버만들기\] 2. koa 사용법 - YouTube
+
+### Day 07
+
+- Vue 로 만드는 직방 / 인스타그램 웹앱
+
+## Javascript Intermediate
+
+### Day 01
+
+- 변수, 호이스팅, TDZ(Temporal Dead Zone)
+- 생성자 함수
+- 객체 메소드, 계산된 프로퍼티
+- 심볼
+- 숫자, 수학 Method
+
+### Day02
+
+- 숫자, 수학 Method
+- 문자열 메소드
+- 배열 메소드
+- 구조 분해 할당
+- 나머지 매개변수, 전개구문
+- 클로저
+- setTimeout / setInterval
+- call, apply, bind
+- 상속, 프로토타입
+
+- 클래스
