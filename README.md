@@ -868,6 +868,24 @@
 - dark모드 만들기 (추가 사항)
 - 날씨 nav 출력 (추가사항)
 - 회원가입 페이지 만들기 (추가 사항)
+-------
+
+## ************ Daily Issue. ************
+
+## Change SringBoot From Spring
+
+### Day 01
+
+- 다국어 처리
+- thymeleaf # 문법
+- thymeleaf Layout
+
+### Day 02
+
+- slf4j
+- thymeleaf 문법 재정리
+
+
 
 -------
 
