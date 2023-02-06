@@ -1126,3 +1126,8 @@
 ### Day04
 
 - 틱택토 
+  - this.$root / this.$parent
+  - Vue.set
+  - EventBus
+  - Vuex
+- 지뢰찾기
