@@ -885,7 +885,10 @@
 - slf4j
 - thymeleaf 문법 재정리
 
+### Day 03
 
+- slf4j
+- thymeleaf 문법 재정리
 
 -------
 
