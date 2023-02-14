@@ -870,33 +870,6 @@
 - 회원가입 페이지 만들기 (추가 사항)
 -------
 
-## ************ Daily Issue. ************
-
-## Change SringBoot From Spring
-
-### Day 01
-
-- 다국어 처리
-- thymeleaf # 문법
-- thymeleaf Layout
-
-### Day 02
-
-- slf4j
-- thymeleaf 문법 재정리
-
-### Day 03
-
-- slf4j
-- thymeleaf 문법 재정리
-
-### Day 04
-
-- slf4j
-- thymeleaf 문법 재정리
-
--------
-
 ## ************ 개인공부. ************
 
 ## Spring Introduction
