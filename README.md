@@ -1112,3 +1112,10 @@
   - EventBus
   - Vuex
 - 지뢰찾기
+
+### Day05
+
+- Vue Router
+  - 동적라우팅
+  - 주소쿼리스트링
+
