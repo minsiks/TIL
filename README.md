@@ -990,6 +990,15 @@
 - 구간합
 - 스택과 큐
 
+## Standard of Java(Lamda-Stream)
+
+### Day 01
+
+- 람다식
+- 함수형 인터페이스
+- 컬렉션 프레임웍과 함수형 인터페이스
+- 스트림
+
 ## Vuejs2 Basic
 
 ### Day 01
