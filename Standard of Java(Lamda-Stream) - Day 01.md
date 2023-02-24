@@ -1,4 +1,4 @@
-# 23-2-22 Standard of Java(Lamda-Stream)  Day01
+# 23-2-22 Standard of Java(Lamda-Stream)  Day 01
 
 ## [자바의 정석](https://www.youtube.com/watch?v=7Kyf4mMjbTQ)
 
