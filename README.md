@@ -1004,6 +1004,12 @@
 - 메서드 참조(method reference)
 - 스트림
 
+### Day 03
+
+- 스트림 생성
+- 스트림의 중간연산
+- Optional<T>
+
 ## Vuejs2 Basic
 
 ### Day 01
