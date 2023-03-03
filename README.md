@@ -1010,6 +1010,14 @@
 - 스트림의 중간연산
 - Optional<T>
 
+### Day 04
+
+- 스트림의 최종연산
+  - forEach()
+  - 조건검사
+  - reduce()
+  - Collect()와 Collectors
+
 ## Vuejs2 Basic
 
 ### Day 01
