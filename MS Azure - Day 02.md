@@ -22,7 +22,7 @@ scp -P 22 nshop-egov-3-10.war k_ms222@20.214.108.238:/home/k_ms222
 
 cp ~/
 
-
+dd
 
 id nshop
 
