@@ -388,3 +388,4 @@ l **배포, 네트워킹, 모니터링, 태그, 검토 + 만들기**
 1. 공통 - 사용자 그룹 수정 Uncaught ReferenceError: getCurrentPage is not defined
 2. 어드민 등록시 상점 정보 등록 - 우편번 찾기 X , 등록시 파일 이미지 등록 X
 
+3. 상품 수정 아안
