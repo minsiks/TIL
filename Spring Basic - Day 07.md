@@ -129,3 +129,18 @@
 
 - `inculeFilters`
 - `excludeFilters`
+
+- FilterType 옵션
+  - ANNOTATION : 기본값
+  - ASSIGNABLE_TYPE : 타입을 인식
+  - ASPECTJ : AspectJ 패턴 사용
+  - REGEX : 정규 표현식
+  - CUSTOM : 인터페이스를 구현 처리
+
+### 중복 등록과 충돌
+
+1. 자동 빈 등록 VS 자동 빈 등록
+   1. 이름이 같은 경우 스프링 오류 발생
+2. 수동 빈 등록 VS 자동 빈 등록
+   1. 수동 빈 등록이 우선
+
