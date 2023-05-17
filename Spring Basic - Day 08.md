@@ -126,5 +126,11 @@ public void setNoBean3(Optional<Member> noBean3){
     - provider.get() 메서드 하나로 기능이 단순
     - 별도의 라이브러리 필요
 
+### 웹 스코프
 
+- 프로토타입과 다르게 스프링이 해당 스코프의 종료시점까지 관리
+- request : HTTP 요청 하나가 들어오고 나갈 때 까지 유지되는 스코프, 각각의 HTTP 요청마다 별도의 빈 인스턴스가 생성되고, 관리
+- session : HTTP Session과 동일한 생명주기를 가지는 스코프
+- application : 서블릿 컨텍스트와 동일한 생명주기를 가지는 스코프
+- websocket : 웹소켓과 동일한 생명주기를 가지는 스코프
 
