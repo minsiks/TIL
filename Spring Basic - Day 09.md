@@ -18,3 +18,48 @@
 
 ## request 스코프 예제
 
+```java
+package hello.core.web;
+
+import hello.core.common.MyLogger;
+import lombok.RequiredArgsConstructor;
+import org.springframework.beans.factory.ObjectProvider;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
+
+import javax.servlet.http.HttpServletRequest;
+
+@Controller
+@RequiredArgsConstructor
+public class LogDemoController {
+
+    private final LogDemoService logDemoService;
+    private final ObjectProvider<MyLogger> myLoggerProvider;
+
+    @RequestMapping("log-demo")
+    @ResponseBody
+    public String logDemo(HttpServletRequest request) throws InterruptedException {
+        String requestURL = request.getRequestURL().toString();
+        MyLogger myLogger = myLoggerProvider.getObject();
+        myLogger.setRequestURL(requestURL);
+
+        myLogger.log("controller test");
+        Thread.sleep(1000);
+        logDemoService.logic("testId");
+        return "OK";
+    }
+}
+```
+
+## 스코프와 프록시
+
+- @Scope(value = "request", proxyMode = ScopedProxyMode.TARGET_CLASS)
+  - 적용 대상이 인터페이스가 아닌 클래스면 `TARGET_CLASS`를 선택
+  - 적용 대상이 인터페이스면 `INTERFACES`를 선택
+
+- 가짜 프록시를 만들어두고 미리 주입
+  - CGLIB라는 라이브러리
+
+## 최종 정리
+
