@@ -6,5 +6,15 @@
 
 > 심사기준 적합성,참신성, 완성도, 공감성
 
-### 도메인 모델과 테이블 설계
+### 실습 과정 중 궁금한 사항
 
+1. @RequiredArgsConstructor
+2. Mapper.java와 Repository.java 차이 
+3. @mapper
+   - 마이바티스를 사용하면?
+
+4. BindingResult
+
+5. @Entity
+6. Enum
+7. @PathVariable
