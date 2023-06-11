@@ -1,4 +1,4 @@
-# 22/5/24 SpringBoot & JPA Day02
+# 22/5/24 SpringBoot & JPA Day03
 
 ## 실전! 스프링 부트와 JPA 활용1 - 웹 어플리케이션 개발
 
