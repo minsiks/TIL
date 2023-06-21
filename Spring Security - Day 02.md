@@ -1,4 +1,4 @@
-# 23/6/20 Spring Security Day 01
+# 23/6/21 Spring Security Day 02
 
  ## 스프링 시큐리티
 
