@@ -1179,20 +1179,15 @@
 ### Day 03
 
 - 배포 환경
-
 - 배포 환경
-
 - 배포 목표
-
 - 관련 계정
-
 - 초기 배포 환경 설정 및 생성
-
 - Azure portal 
-
 - Azure Database for MySQL
-
 - App Service
-
 - 재배포, 변경사항 적용
- adsf
+
+## AWS
+
+- 
