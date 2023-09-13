@@ -37,6 +37,8 @@
 > >
 > > [모던 JavaScript 튜토리얼](https://ko.javascript.info/)
 > >
+> > https://brunch.co.kr/@siliconsculptor/9
+> >
 > > [Coding Games and Programming Challenges to Code Better (codingame.com)](https://www.codingame.com/ide/puzzle/onboarding)
 >
 > -- :seedling: boot strap site --
