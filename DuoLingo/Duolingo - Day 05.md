@@ -1,4 +1,4 @@
-# 2023/12/12 Duolingo Day 04
+# 2023/12/22 Duolingo Day 05
 
 ## 보고 따라 읽기
 
@@ -102,4 +102,15 @@ lean against : ~에 기대다
 
   - in a ponytail
 
-    
+
+### 사진 보고 글로 묘사하기
+
+this is picture of that someone walk street in winter. It looks like snowing. so that why it seems white world in this picture. i thought the movie Frozen right.
+
+This is a photograph of ~
+
+brick buildings 벽돌 빌딩
+
+
+
+this captures a scene is one kid 
