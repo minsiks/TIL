@@ -1,0 +1,142 @@
+# 2023/12/27 Duolingo Day 07
+
+## 단어
+
+- spectator : 관중
+- vicinity : 근방
+- vulnerable : 취약한
+- obsession : 강박
+- tutor : 가정교사
+- sensation : 감각
+- saga : 전설
+- outweight : ~보다 더 크다
+- pedestrian : 보행자
+- mutation : 돌연변이
+- retake an exam : 재시험을 치루다. 재수
+- integrate : 통합하다
+- squander : 낭비하다
+- territory : 지역
+- vent : 통풍구, 환기구
+- supply : 공급하다.
+- stare : 빤히 쳐다보다.
+- upstream : 상류
+- obesity : 비만
+- involve : 수반하다
+- precisely : 바로
+- outspoken : 노골적으로 말하는
+- overflow : 과다, 범람
+- thereafter : 그 후에
+- validity : 유효함
+- solid : 단단한, 고체, 고형물
+- intrusion : 침범
+- stretch : 늘이다
+- settler : 정착민
+- passage : 한구절, 통과
+- sustenence : 자양분
+- reasoning : 추론
+- thoughness : 강인함
+- platform : 단, 기차역플랫폼
+- occupy : 차지하다
+- scenery : 경치
+- trait : 특성
+- partly : 부분적으로
+- subsequently : 그 후
+- tenable : 유지되는
+- voter : 투표자
+- prejudice : 희생자
+- resilience : 탄력
+- tremendously : 굉장한
+- mutual : 상호
+- mechanism : 기계 장치
+- outcome : 결과
+- march : 행진하다
+- toughtless : 생각 없는
+- peek : 훔쳐보다
+- vend : 팔다
+- squeaky : 끼익 하는 소리가 나는
+- unreasonably : 비이성적이게
+- justifiable : 정당한
+- violate : 위반하다
+- literacy : 읽고 쓸 수 있는 능력
+- preservation : 보존
+- means : 수단
+- make the effort to : ~ 하려고 노력하다
+- instance : 사례
+- totality : 전체
+- significantly : 상당히
+- toddler : 걸음마 배우는 아기
+- physiological : 생리학적
+- latitude : 위도
+- priority : 우선
+- undue : 지나친, 부당한
+- merciless : 무자비한
+- radius : 반경
+- nuisance : 골칫거리
+- intrinsic : 고유
+- maintain : 유지하다
+- intuition : 직관력
+- wholly : 완전히
+- orbital : 궤도의
+- stability : 안정
+- malign : 비방하다
+- stubbornness : 완고
+- spectacular : 장관
+- trousers : 바지
+- made up of : ~로 구성된
+
+- rewarding : 보람찬
+- primarily : 첫째, 본래
+- scarcity : 부족, 결핍
+- swine : 돼지
+- mass communication : 대중매체
+- lean : 기울다
+- transition : 이행 , 과도, 변화
+- invasion : 침략
+- interrogation : 심문
+- scent : 향기, 향내
+- perseverance : 인내
+- struggle : 분투
+- resourceful : 자원이 풍부한
+- linger : 남아있다
+- trutworthy : 신뢰할 수 있는
+- outset : 착수
+- supernova : 초신성
+- regarding : ~에 관하여
+- synonymous : 동의어
+- outbreak : 발생
+- reluctant : 마지못해서
+- throughout : 도처에
+- supportive : 지지하는
+- podium : 연단
+- qualification : 자격, 자격증
+- requirement : 필요
+- reputation : 명성
+- patiently : 참을성 있게
+- medieval : 중세의
+- mingle : 섞다 , 어울리다
+- sophisticated : 세련된
+- specify : 명시하다
+- subordinate : 부하
+- perpetually : 영속적으로
+- resident : 주민
+- modulation : 조절
+- preferably : 더 좋아하여
+- mustache : 콧수염
+- intoxicating : 취하게 하는
+- nausea : 메스꺼움
+- mishap : 작은 사고, 불상사
+- irrational : 비이성적인
+- personnel : 인사
+- intolerance : 편협증
+- wilderness : 황무지
+- shovel : 삽
+- offspring : 자식, 새끼
+- undertake : 착수하다
+- interestingly : 흥미롭게
+- irresponsible : 무책임한
+- paw : 앞 발, 손
+
+- treatment : 취급
+- paralyze : 마비시키다
+- residency : 거주
+- stern : 엄격한
