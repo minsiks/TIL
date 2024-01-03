@@ -1,7 +1,7 @@
 # 2023/12/27 Duolingo Day 07
 
 ## 단어
-
+ 
 - spectator : 관중
 - vicinity : 근방
 - vulnerable : 취약한
