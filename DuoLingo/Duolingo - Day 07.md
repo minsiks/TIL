@@ -1,7 +1,7 @@
 # 2023/12/27 Duolingo Day 07
 
 ## 단어
- 
+
 - spectator : 관중
 - vicinity : 근방
 - vulnerable : 취약한
@@ -42,7 +42,7 @@
 - partly : 부분적으로
 - subsequently : 그 후
 - tenable : 유지되는
-- voter : 투표자
+- voter : 투표자dd
 - prejudice : 희생자
 - resilience : 탄력
 - tremendously : 굉장한
