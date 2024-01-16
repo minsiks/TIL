@@ -140,3 +140,4 @@
 - paralyze : 마비시키다
 - residency : 거주
 - stern : 엄격한
+- executive : 경영, 간부,임원
