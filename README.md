@@ -11,7 +11,7 @@
 >
 > :100: 자격증 Try : ~~정보처리 기사 (6/7) 필기 합격~~ (), ~~SQLD~~ (합격) , ~~정보처리 기사 실기 (2023.11.15 최종합격)~~
 >
-> :six_pointed_star: 공부할 기술 스택 : JPA, vue.js
+> :six_pointed_star: 공부할 기술 스택 : JPA, vue.js, React.js
 
 --------------
 
