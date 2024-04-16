@@ -1196,3 +1196,23 @@
 
 - 리액스 함수
 - 컴포넌트
+
+## AgensSQL (PostgreSQL)
+
+### Day 01
+
+- 배경환경 설정
+
+### Day 02
+
+- 리눅스에서 AgensSQL 설치
+
+### Day 03
+
+- 리눅스에서 AgensSQL 설치
+- sql 시작하기
+- user 관리
+- agenssql physical 영역 file 확인
+- agenssql 주요 file size 관리
+- tablesspaces 관리
+- vacuum 수행 관리
