@@ -91,6 +91,29 @@
       \g
       ```
 
+- Database Level Command - Display Opions
+
+  - ```
+    \x 칼럼 단위 보기 기능 켬
+    Column을 Row로 변경 출력
+    ```
+
+  - ```
+    \a 
+    Column 길이 무시하고 출력
+    ```
+
+  - ```
+    \t 자료만 보기 기능 켬
+    Column 명(Tuple header) 제외하고 출력
+    ```
+
+  - ```
+    \timing 작업 수행시간 보임
+    Query 실행 시간 출력
+    ```
+
+
 ### 2. vi 편집기 사용
 
 - 이동 
@@ -151,7 +174,91 @@
 
     - 접근 허용등 중요한 환경설정
 
-    
 
+### 3. PostgreSQL Architecture
 
+- PostgreSQL란
+  - 객체 관계형 데이터 베이스(ORDBMS)
+  - 데이터 베이스 랭킹 4위
+  - 오픈소스로 제공되며 다양한 파생 모델들도 존재
 
+![image-20240418150657584](C:\Users\min\Documents\TIL\assets\image-20240418150657584.png)
+
+- Memory 영역
+
+![image-20240418150952053](C:\Users\min\Documents\TIL\assets\image-20240418150952053.png)
+
+모든 프로세서가 공유해서 사용하는 Shared Memory
+
+PostgreSQL의 Backend 프로세스 별로 할당되는 Local Memory
+
+- Shared Memory
+
+  - Shared buffers
+    - 디스크에서 필요한 데이터를 shared buffer 에서 미리 처리, disk i/o를 줄여 성능 확보
+    - 서버 메모리의 4분의 1 권장, postgresql.conf 에서 설정 가능(default=128MB)
+    - buffer manger의 활용 빈도가 page(=디스크 상의 block)를 캐싱하고, clock sweep 알고리즘을 통해 효율적인 관리
+  - WAL(write Ahead Logging) Buuffer
+    - 데이터의 변경사항을 WAL file로 만들어 디스크 영역으로 내리기 전까지 보관
+    - 복구 작업 시 data의 재구성을 위해 필요
+    - wal_buffers 파라미터 값으로 조정
+  - CLog buffer (Commit Log Buffer)
+    - 트랜잭션의 상태를 캐싱하는 메모리 공간으로 어떤 트랜잭션이 commit 되었는지 확인
+    - 각 트랜잭션 (in_progress, commited, aborted, sub_commited)의 상태를 기록하여 완료 여부 확인
+    - DB에 의해 자동으로 관리
+  - Lock space
+    - 동시성 제어에서 동시에 어떤 항목에 접근을 시도, 충돌 방지, 허용에 대한 기능
+    - 모든 유형의 Lock 정보를 저장
+
+- Local Memory (Process Memory)
+
+  개별 프로세스가 할당 받아 사용하는 메모리 공간, 세션 단위로 할당되지만 트랜잭션 단위로도 가능
+
+  - Maintenance work memory
+    - 유지 관리 작업에 사용되는 메모리
+    - Vaccum 관련 작업, 인덱스 생성, 테이블 변경, FK 추가 등의 작업에 사용
+  - Temp buffer
+    - Temp 테이블을 사용하는 경우에만 할당
+  - Work memory 
+    - Sort/Hash 등의 연산작업으로 Temp 파일을 사용하기 전에 사용
+  - Catalog cache
+    - 시스템 catalog 메타데이터를 이용할때 사용
+  - Optimizer /Executer
+    - 실행된 query의 실행 계획 및 실행을 담당
+
+- PostgreSQL Processes
+
+  메인 프로세스
+
+  - Postmaster
+    - 메인 프로세스, 가장 먼저 시작, Shared memory영역 할당
+    - 하위 프로세스들의 작동 유무 체크 및 문제 발생 시 재기동
+    - Client 연결 요청 대기, 요청 시 Postgres 프로세스 생성
+  - Postgres
+    - Client 가 요청한 SQL 및 Command의 처리 프로세스, Client 연결 해제 시 종료
+    - Client:Progres 1:1 관계, 개수는 max_connections 파라미터로 조정(default=100)
+
+  백그라운드 프로세스
+
+  - BG writer
+    - Shared buffer 내에 dirty page를 디스크로 주기적인 flush 수행, checkpoint 시 필연적으로 발생하는 I/O의 분산
+    - check point 발생 시 flush 수행
+  - WAL writer
+    - WAL buffer를 주기적으로 확인
+    - 트랜잭션의 커밋이나 로그 파일 공간이 찼을 경우 실행
+  - checkpointer
+    - checkpoint를 수행하며, 이전의 모든 변경 사항을 disk로 flush
+    - 다운이나 충돌 시 마지막 checkpoint 레코드를 확인하여 복구
+  - Archiver
+    - 자동으로 최신화 되어 삭제되는 구 버전의 WAL 파일의 archiving을 진행하는 프로세스
+  - Stats Collector
+    - DB의 통계정보를 수집
+    - Session 정보(pg_stat_activity) 및 테이블 통계정보와 같은 DBMS 사용 통계를 수집하여 pg_catalog에 정보를 업데이트
+    - Optimizer가 최적의 query 실행을 위해 해당 정보 참조
+  - Autovacuum launcher
+    - vaccum이 필요한 시점에 autovaccum을 수행하고 관리하는 프로세스
+  - Logger
+    - 오류나 프로세스 정보를 기록하며 로그 메시지로 저장하는 프로세스
+    - $PGDATA/pg_log 폴더에 저
+
+> flush : 데이터를 메모리나 캐시에서 디스크로 영구적으로 기록하는 작업을 의
