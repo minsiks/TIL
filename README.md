@@ -1216,3 +1216,18 @@
 - agenssql 주요 file size 관리
 - tablesspaces 관리
 - vacuum 수행 관리
+
+### Day 04 
+
+- SQL 작성법
+- Naming Rules
+- asql프롬프트 상에서 vi 사용
+
+### Day 05
+
+- AgensSQL Command Line Interface
+- vi 편집기 사용
+- PostgreSQL Architecture
+
+### Day 06
+- WAL(Write Ahead Log)
