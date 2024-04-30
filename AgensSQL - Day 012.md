@@ -25,4 +25,13 @@
 ?인덱스의 종류, JOB, 오브젝트의 타입, EDB, SYNONYM, 1:1로 VIEW와 테이블을 매핑하는 이유, HA
 ```
 
-### 
+### 2. RAID(Redundant Array of Inexpensive Disks)
+
+​	개별 디스크드라이브를 묶어서 고가의 대용량 고성능 디시크 드라이브의 성능과 기술을 구현하기 위해 만들어진 기술
+
+- RAID 종류
+  - RAID 0 (Striping)
+    - 드라이브를 병렬로 사용, I/O를 여러 드라이브에 나눠(스트라이프해서) 저장
+    - 가장 나은 임의 접근 I/O와 순차 I/O 성능을 제
+
+![image-20240429173621779](C:\Users\min\Documents\TIL\assets\image-20240429173621779.png)
