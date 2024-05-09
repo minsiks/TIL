@@ -1231,3 +1231,41 @@
 
 ### Day 06
 - WAL(Write Ahead Log)
+
+### Day 07
+
+- Vaccum
+
+### Day 08
+
+- WAL(Write Ahead Log)
+
+### Day 09
+
+- LVM
+
+### Day 10
+
+- Vacuum 수행관
+
+### Day 11
+
+- Database, Tablespace, User, schema
+- postgreSql 구
+
+### Day 12
+
+- 데이터베이스 구조
+- RAID
+
+### Day 13
+
+- Explain 쿼리
+
+### Day 14
+
+- 병렬쿼리 (Parallel Query)
+
+### Day 15
+
+- Join 알고리즘
