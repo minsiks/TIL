@@ -1269,3 +1269,15 @@
 ### Day 15
 
 - Join 알고리즘
+
+### Day 16
+
+- Partition
+
+### Day 17
+
+- Query Explain
+
+### Day 18
+
+- Oracle vs AgensSQL
