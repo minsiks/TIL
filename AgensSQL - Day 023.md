@@ -13,9 +13,10 @@ Lock
 > DeadLock
 >> Lock이 걸린 상황에서 다른세션에서 추가적으로 Lock을 잡는 경우
 pgAdmin
-> 
 ? JDBC VS ODBC
 ```
 
+### Lock
 
+- 같은 데이터를 동시에 접근하는 상황에서, 데이터의 무결성과 일관성을 지키기 위해 Lock을 사용
 
