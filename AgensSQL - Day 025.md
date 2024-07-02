@@ -492,4 +492,4 @@ WHERE active = true;
 ### 추후 추가 할 점
 
 - 인덱스 튜닝 사례 (직접 인덱스를 튜닝해보면서 사례 작성)
-  - ex) nshop
+  - ex) nshop db 데이터베이스 튜닝
