@@ -9,7 +9,7 @@
 > - *토비의 스프링*
 > - *자바 ORM 표준 JPA프로그래밍*
 >
-> :100: 자격증 Try : ~~정보처리 기사 (6/7) 필기 합격~~ (), ~~SQLD~~ (합격) , ~~정보처리 기사 실기 (2023.11.15 최종합격)~~
+> :100: 자격증 Try : ~~정보처리 기사 (6/7) 필기 합격~~ (), ~~SQLD~~ (합격) , ~~정보처리 기사 실기 (2023.11.15 최종합격)~~, AWS -SAA(solutions Architect Associate)
 >
 > :six_pointed_star: 공부할 기술 스택 : JPA, vue.js, React.js
 
@@ -1281,3 +1281,10 @@
 ### Day 18
 
 - Oracle vs AgensSQL
+
+## AWS SAA(Solutions Architect Associate)
+
+### Day 01
+
+- AWS 클라우드 개요
+- IAM & AWS CLI
