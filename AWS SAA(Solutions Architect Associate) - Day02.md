@@ -1,6 +1,6 @@
 # 24/7/10 AWS SAA(Solutions Architect Associate) - Day02
 
-## EC2, 고가용성 및 스케일링성
+## EC2, 고가용성 및 확장성
 
 ### 1. EC2
 
