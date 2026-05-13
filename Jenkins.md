@@ -13,3 +13,5 @@
 # 제우스 알아보기
 
 # 크
+
+https://career.sw.or.kr/ 등록하기
