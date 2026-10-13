@@ -1,4 +1,4 @@
-# 24/7/26 AWS SAA(Solutions Architect Associate) - Day12
+# 24/7/26 AWS SAA(Solutions Architect Associate) - Day13
 
 ## 재해복구
 
