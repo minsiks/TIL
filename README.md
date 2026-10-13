@@ -1290,13 +1290,53 @@
 - IAM & AWS CLI
 
 ### Day 02
+
 - EC2, 고가용성 및 확장성
 
 ### Day 03
 
+- 고가용성 및 확장성, RDS+Aurora+Elaticache
+
 ### Day 04
+
+- RDS + Aurora + Elaticache, Route53
 
 ### Day 05
 
+- Route 53, 솔루션 아키텍쳐, Amazon S3
+
 ### Day 06
 
+- Amazon S3
+
+### Day 07
+
+- 디커플링 애플리케이션
+
+### Day 08
+
+- 디커플링 애플리케이션, 컨테이너
+
+### Day 09
+
+- 컨테이너
+
+### Day10
+
+- 서버리스
+
+### Day11
+
+- 머신러닝, 모니터링 및 감사, IAM 고급
+
+### Day12
+
+- 머신러닝, 모니터링 및 감사, IAM 고급
+
+### Day13
+
+- 재해복구
+
+### Day14
+
+- 오답노트
