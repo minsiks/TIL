@@ -32,4 +32,8 @@
 - Lambda@Edge
   - CloudFront 기능 중 하나, 애플리케이션 사용자에게 더 가까운 위치에서 코들르 실행하여 성능을 개선하고 지연시간을 단축
 
-556
+- 덤프 문제 app
+https://aws-quiz-beta.vercel.app/study/quiz
+
+- 총 정리 사이트
+https://velog.io/@gagaeun/AWS-IAM
